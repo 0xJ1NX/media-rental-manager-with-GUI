@@ -1,2 +1,18 @@
 # media-rental-manager-with-GUI
-Comp231 Java Project 2022 , Media Rental Manager
+This is the Comp231 Final Project 2022 (Birzeit University).
+
+## Media Rental Manager
+   - **Class in the project** :
+     - Main
+     - Customers
+     - Media
+     - Album
+     - Game
+     - Movie
+     - MediaRental
+     - MediaRentalInt (java interface)
+  
+   - **The Resources Included**
+   - **GUI Using Java fx**
+     - **scenebuilder NOT Used**
+
