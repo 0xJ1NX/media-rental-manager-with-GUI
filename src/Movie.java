@@ -1,4 +1,3 @@
-package com.example.projectjava2;
 
 
 public class Movie extends Media {
