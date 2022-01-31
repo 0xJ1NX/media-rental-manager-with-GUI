@@ -1,5 +1,3 @@
-package com.example.projectjava2;
-
 
 public abstract class Media implements Comparable<Media> {
 
