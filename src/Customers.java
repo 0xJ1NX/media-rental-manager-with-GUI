@@ -89,3 +89,5 @@ public class Customer implements Comparable<Customer>  {
         return  "#Customer Id : " + id +"\n  - name : " + name + "\n  - address : " + address + "\n  - plan : " + plan +  "\n  - interestedMediaList : " + interestedMediaList +" (By Code)"+ "\n  - rentedMediaList : " + rentedMediaList+ " (By Code)" ;
     }
 }
+
+//Author: Omar Qalalweh
