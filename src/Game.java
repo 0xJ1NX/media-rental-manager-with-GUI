@@ -1,5 +1,3 @@
-package com.example.projectjava2;
-
 
 public class Game extends Media {
 
