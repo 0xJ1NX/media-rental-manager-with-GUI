@@ -1,6 +1,5 @@
-# media-rental-manager-with-GUI
-This is the Comp231 Final Project 2022 (Birzeit University).
-
+# media-rental-manager-with-GUI  
+This is the Comp231 Final Project 2022 (Birzeit University).  `By Omar Qalalweh`
 ## Media Rental Manager
    - **Class in the project** :
      - Main
