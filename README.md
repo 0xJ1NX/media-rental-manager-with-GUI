@@ -13,6 +13,7 @@ This is the Comp231 Final Project 2022 (Birzeit University).
      - MediaRentalInt (java interface)
   
    - **The Resources Included in the Resources Folder (will look ugly without it)**
+        > better download it (:
    - **GUI Using Java fx**
      - **scenebuilder NOT Used**
 
