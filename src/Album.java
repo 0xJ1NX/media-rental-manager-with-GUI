@@ -39,3 +39,5 @@ public class Album extends Media{
         return "--- TYPE : "+"Album"+" ---\n"+super.toString()+"\n  - Artist : " + artist + "\n  - Songs : " + songs;
     }
 }
+
+//Author: Omar Qalalweh
