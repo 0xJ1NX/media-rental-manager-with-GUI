@@ -27,3 +27,6 @@ public class Game extends Media {
         return "--- TYPE : "+"Game"+" ---\n"+super.toString()+"\n  - weight : " + weight;
     }
 }
+
+
+//Author: Omar Qalalweh
