@@ -23,6 +23,8 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) {
+        
+//Author: Omar Qalalweh
 
         loadData();// calling method to load and retrieve data from the files .
 
@@ -3334,3 +3336,6 @@ public class Main extends Application {
         launch();
     }
 }
+
+
+//Author: Omar Qalalweh
