@@ -28,5 +28,4 @@ public class Game extends Media {
     }
 }
 
-
 //Author: Omar Qalalweh
