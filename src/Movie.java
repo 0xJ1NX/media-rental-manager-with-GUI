@@ -31,3 +31,6 @@ public class Movie extends Media {
         return "--- TYPE : "+"Movie"+" ---\n"+super.toString()+ "\n  - Rating : " + rating;
     }
 }
+
+
+//Author: Omar Qalalweh
