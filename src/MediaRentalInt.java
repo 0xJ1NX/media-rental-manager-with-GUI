@@ -18,3 +18,6 @@ public interface MediaRentalInt {
     ArrayList<String> searchMedia(String title, String rating, String artist, String songs);
 
 }
+
+
+//Author: Omar Qalalweh
