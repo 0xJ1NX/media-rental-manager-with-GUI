@@ -1,0 +1,84 @@
+.root{
+    -fx-background-image: url(preview.jpg);
+}
+
+
+.button{
+    -fx-font-size: 20;
+    -fx-font-weight: Bold 700;
+    -fx-font-family: "Montserrat";
+    -fx-background-color: transparent ;
+    -fx-border-width: 1.5;
+    -fx-border-radius: 30;
+    -fx-border-color: linear-gradient(to top, #F84D9E, #FF7475);
+
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: #ffffff;
+    -fx-pref-width: 400px;
+    -fx-pref-height: 50px;
+
+}
+
+.button:hover{
+    -fx-background-color:linear-gradient(to top, #F84D9E, #FF7475);
+}
+
+.label {
+    -fx-background-color:linear-gradient(to top, #F84D9E, #FF7475);
+    -fx-background-radius: 30;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-pref-width: 300;
+    -fx-pref-height: 35;
+    -fx-font-size: 18;
+    -fx-font-family: "Montserrat";
+    -fx-text-alignment: Center;
+
+
+}
+
+.text-field {
+    -fx-border-color: linear-gradient(to top, #F84D9E, #FF7475);
+    -fx-border-radius: 15;
+    -fx-border-width: 3;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 30 ;
+    -fx-font-size: 14;
+    -fx-font-family: "Montserrat";
+    -fx-text-alignment: Center;
+}
+.text-field:focused {
+    -fx-background-color: #cccccc;
+}
+
+.radio-button {
+    -fx-pref-width: 100;
+    -fx-font-size: 14;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: Bold;
+    -fx-background-color: #cccccc ;
+    -fx-background-radius: 15;
+}
+.radio-button .radio:hover {
+    -fx-border-color: #15171c;
+    -fx-border-radius: 130px;
+}
+
+.combo-box-base
+{
+    -fx-border-color:linear-gradient(to top, #F84D9E, #FF7475);
+    -fx-border-radius: 15;
+    -fx-pref-width: 200;
+    -fx-border-width: 3;
+    -fx-background-radius: 15;
+    -fx-font-size: 14;
+    -fx-font-family: "Montserrat";
+}
+
+.combo-box-base:hover
+{
+    -fx-border-color: #0099cc;
+
+}
+
