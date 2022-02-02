@@ -1,0 +1,20 @@
+.button{
+    -fx-font-size: 18;
+    -fx-font-weight: Bold;
+    -fx-font-family: "Montserrat";
+    -fx-border-width: 1.5;
+    -fx-border-radius: 30;
+    -fx-border-color: linear-gradient(to bottom, #ed213a, #93291e);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-pref-width: 400px;
+    -fx-pref-height: 50px;
+    -fx-background-color: transparent ;
+
+}
+
+
+.button:hover{
+    -fx-background-color:linear-gradient(to bottom, #ed213a, #93291e);
+}
